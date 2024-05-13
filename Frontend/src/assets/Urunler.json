@@ -1,0 +1,1252 @@
+[
+    {
+        "urun_id": 1,
+        "urun_ad": "UCP 204",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "stok": 3,
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 2,
+        "urun_ad": "UCP 205",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "stok": 5,
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 3,
+        "urun_ad": "UCP 206",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 4,
+        "urun_ad": "UCP 207",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 5,
+        "urun_ad": "UCP 208",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 6,
+        "urun_ad": "UCP 209",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 7,
+        "urun_ad": "UCP 210",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 8,
+        "urun_ad": "UCP 211",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 9,
+        "urun_ad": "UCP 212",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 10,
+        "urun_ad": "UCP 213",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 11,
+        "urun_ad": "UCP 214",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 12,
+        "urun_ad": "UCP 215",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 13,
+        "urun_ad": "UCP 216",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 14,
+        "urun_ad": "UCP 218",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 15,
+        "urun_ad": "UCF 204",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 16,
+        "urun_ad": "UCF 205",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 17,
+        "urun_ad": "UCF 206",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 18,
+        "urun_ad": "UCF 207",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 19,
+        "urun_ad": "UCF 208",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 20,
+        "urun_ad": "UCF 209",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 21,
+        "urun_ad": "UCF 210",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 22,
+        "urun_ad": "UCF 211",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 23,
+        "urun_ad": "UCF 212",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 24,
+        "urun_ad": "UCF 213",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 25,
+        "urun_ad": "UCF 214",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 26,
+        "urun_ad": "UCF 216",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 27,
+        "urun_ad": "UCF 218",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 28,
+        "urun_ad": "UCFL 204",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 29,
+        "urun_ad": "UCFL 205",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 30,
+        "urun_ad": "UCFL 206",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 31,
+        "urun_ad": "UCFL 207",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 32,
+        "urun_ad": "UCFL 208",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 33,
+        "urun_ad": "UCFL 209",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 34,
+        "urun_ad": "UCFL 210",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 35,
+        "urun_ad": "UCFL 211",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 36,
+        "urun_ad": "UCFL 212",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 37,
+        "urun_ad": "UCFL 214",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 38,
+        "urun_ad": "UCFL 216",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 39,
+        "urun_ad": "UCFL 218",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 40,
+        "urun_ad": "UCT 204",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 41,
+        "urun_ad": "UCT 205",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 42,
+        "urun_ad": "UCT 206",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 43,
+        "urun_ad": "UCT 207",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 44,
+        "urun_ad": "UCT 208",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 45,
+        "urun_ad": "UCT 209",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 46,
+        "urun_ad": "UCT 210",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 47,
+        "urun_ad": "UCT 211",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 48,
+        "urun_ad": "UCT 212",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 49,
+        "urun_ad": "UCT 214",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 50,
+        "urun_ad": "UCT 216",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 51,
+        "urun_ad": "UCT 218",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 52,
+        "urun_ad": "UCFC 204",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 53,
+        "urun_ad": "UCFC 205",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 54,
+        "urun_ad": "UCFC 206",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 55,
+        "urun_ad": "UCFC 207",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 56,
+        "urun_ad": "UCFC 208",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 57,
+        "urun_ad": "UCFC 209",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 58,
+        "urun_ad": "UCFC 210",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 59,
+        "urun_ad": "UCFC 211",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 60,
+        "urun_ad": "UCFC 212",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 61,
+        "urun_ad": "UCFC 213",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 62,
+        "urun_ad": "UCFC 214",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 63,
+        "urun_ad": "UCFC 215",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 64,
+        "urun_ad": "UCFC 216",
+        "urun_aciklama": "YATKLI RULMAN DÖKÜM",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 65,
+        "urun_ad": "UCFC 218",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 66,
+        "urun_ad": "SUCP 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 67,
+        "urun_ad": "SUCP 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 68,
+        "urun_ad": "SUCP 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 69,
+        "urun_ad": "SUCP 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 70,
+        "urun_ad": "SUCP 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 71,
+        "urun_ad": "SUCF 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 72,
+        "urun_ad": "SUCF 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 73,
+        "urun_ad": "SUCF 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 74,
+        "urun_ad": "SUCF 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 75,
+        "urun_ad": "SUCF 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 76,
+        "urun_ad": "SUCFL 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 77,
+        "urun_ad": "SUCFL 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 78,
+        "urun_ad": "SUCFL 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 79,
+        "urun_ad": "SUCFL 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 80,
+        "urun_ad": "SUCFL 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 81,
+        "urun_ad": "SUCFC 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 82,
+        "urun_ad": "SUCFC 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 83,
+        "urun_ad": "SUCFC 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 84,
+        "urun_ad": "SUCFC 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 85,
+        "urun_ad": "SUCFC 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 86,
+        "urun_ad": "SUCT 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 87,
+        "urun_ad": "SUCT 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 88,
+        "urun_ad": "SUCT 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 89,
+        "urun_ad": "SUCT 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 90,
+        "urun_ad": "SUCT 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 91,
+        "urun_ad": "SSUCP 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 92,
+        "urun_ad": "SSUCP 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 93,
+        "urun_ad": "SSUCP 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 94,
+        "urun_ad": "SSUCP 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 95,
+        "urun_ad": "SSUCP 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 96,
+        "urun_ad": "SSUCF 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 97,
+        "urun_ad": "SSUCF 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 98,
+        "urun_ad": "SSUCF 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 99,
+        "urun_ad": "SSUCF 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 100,
+        "urun_ad": "SSUCF 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 101,
+        "urun_ad": "SSUCFL 204",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 102,
+        "urun_ad": "SSUCFL 205",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 103,
+        "urun_ad": "SSUCFL 206",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 104,
+        "urun_ad": "SSUCFL 207",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 105,
+        "urun_ad": "SSUCFL 208",
+        "urun_aciklama": "YATKLI RULMAN PLASTİK PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 106,
+        "urun_ad": "SPFL 203",
+        "urun_aciklama": "YATKLI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 107,
+        "urun_ad": "SPFL 204",
+        "urun_aciklama": "YATKLI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 108,
+        "urun_ad": "SPFL 205",
+        "urun_aciklama": "YATKLI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 109,
+        "urun_ad": "SPFL 206",
+        "urun_aciklama": "YATKLI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 110,
+        "urun_ad": "SB 204",
+        "urun_aciklama": "YATKLI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 111,
+        "urun_ad": "SB 205",
+        "urun_aciklama": "YATKLI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 112,
+        "urun_ad": "SUC 204",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 113,
+        "urun_ad": "SUC 205",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 114,
+        "urun_ad": "SUC 206",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 115,
+        "urun_ad": "SUC 207",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 116,
+        "urun_ad": "SUC 208",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 117,
+        "urun_ad": "SUC 209",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 118,
+        "urun_ad": "SUC 210",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 119,
+        "urun_ad": "SUC 211",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 120,
+        "urun_ad": "SUC 212",
+        "urun_aciklama": "YATAK RULMANI PASLANMAZ",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 121,
+        "urun_ad": "GE 17 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 122,
+        "urun_ad": "GE 20 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 123,
+        "urun_ad": "GE 25 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 124,
+        "urun_ad": "GE 30 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 125,
+        "urun_ad": "GE 35 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 126,
+        "urun_ad": "GE 40 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 127,
+        "urun_ad": "GE 50 ES",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 128,
+        "urun_ad": "POS 5 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 129,
+        "urun_ad": "POS 6 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 130,
+        "urun_ad": "POS 8 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 131,
+        "urun_ad": "POS 10 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 132,
+        "urun_ad": "POS 12 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 133,
+        "urun_ad": "POS 14 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 134,
+        "urun_ad": "POS 16 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 135,
+        "urun_ad": "POS 18 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 136,
+        "urun_ad": "POS 20 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 137,
+        "urun_ad": "POS 5 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 138,
+        "urun_ad": "POS 6 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 139,
+        "urun_ad": "POS 8 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 140,
+        "urun_ad": "POS 10 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 141,
+        "urun_ad": "POS 12 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 142,
+        "urun_ad": "POS 14 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 143,
+        "urun_ad": "POS 16 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 144,
+        "urun_ad": "POS 18 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 145,
+        "urun_ad": "POS 20 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 146,
+        "urun_ad": "PHS 5 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 147,
+        "urun_ad": "PHS 6 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 148,
+        "urun_ad": "PHS 8 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 149,
+        "urun_ad": "PHS 10 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 150,
+        "urun_ad": "PHS 12 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 151,
+        "urun_ad": "PHS 14 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 152,
+        "urun_ad": "PHS 16 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 153,
+        "urun_ad": "PHS 18 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 154,
+        "urun_ad": "PHS 20 L",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 155,
+        "urun_ad": "PHS 5 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 156,
+        "urun_ad": "PHS 6 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 157,
+        "urun_ad": "PHS 8 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 158,
+        "urun_ad": "PHS 10 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 159,
+        "urun_ad": "PHS 12 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 160,
+        "urun_ad": "PHS 14 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 161,
+        "urun_ad": "PHS 16 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 162,
+        "urun_ad": "PHS 18 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 163,
+        "urun_ad": "PHS 20 A",
+        "urun_aciklama": "DANA GÖZÜ MAFSALLAR",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 164,
+        "urun_ad": "51100",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 165,
+        "urun_ad": "51101",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 166,
+        "urun_ad": "51102",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 167,
+        "urun_ad": "51103",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 168,
+        "urun_ad": "51104",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 169,
+        "urun_ad": "51105",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 170,
+        "urun_ad": "51106",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 171,
+        "urun_ad": "51107",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 172,
+        "urun_ad": "51108",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 173,
+        "urun_ad": "51109",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 174,
+        "urun_ad": "51110",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 175,
+        "urun_ad": "51111",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 176,
+        "urun_ad": "51112",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 177,
+        "urun_ad": "51113",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 178,
+        "urun_ad": "51114",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 179,
+        "urun_ad": "51115",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 180,
+        "urun_ad": "51116",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 181,
+        "urun_ad": "51117",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 182,
+        "urun_ad": "51118",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 183,
+        "urun_ad": "51120",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 184,
+        "urun_ad": "51122",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 185,
+        "urun_ad": "51124",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 186,
+        "urun_ad": "51126",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 187,
+        "urun_ad": "51130",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 188,
+        "urun_ad": "51132",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 189,
+        "urun_ad": "51204",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 190,
+        "urun_ad": "51205",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 191,
+        "urun_ad": "51206",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 192,
+        "urun_ad": "51207",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 193,
+        "urun_ad": "51208",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 194,
+        "urun_ad": "51209",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 195,
+        "urun_ad": "51210",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 196,
+        "urun_ad": "51211",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 197,
+        "urun_ad": "51212",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 198,
+        "urun_ad": "51213",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 199,
+        "urun_ad": "51214",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 200,
+        "urun_ad": "51215",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 201,
+        "urun_ad": "51216",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 202,
+        "urun_ad": "51217",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 203,
+        "urun_ad": "51218",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 204,
+        "urun_ad": "51220",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 205,
+        "urun_ad": "51222",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 206,
+        "urun_ad": "51224",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 207,
+        "urun_ad": "51305",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    },
+    {
+        "urun_id": 208,
+        "urun_ad": "51306",
+        "urun_aciklama": "EKSENEL SABİT BİYALI RULMAN",
+        "urun_fiyat": null
+    }
+]

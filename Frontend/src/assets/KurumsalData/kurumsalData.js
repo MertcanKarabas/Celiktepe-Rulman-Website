@@ -1,0 +1,6 @@
+export const kurumsalData = [
+    {
+        title: "Hakkımızda",
+        text: "İstanbul'un sanayi merkezlerinden biri olan İkitelli'de, iş dünyasının önde gelen isimlerinden biri olan Sedat Çeliktepe'nin liderliğindeki Çeliktepe Rulman Sanayi Ticaret Limited Şirketi, 25 yılı aşkın bir süredir sektöründe önemli bir konuma sahip. Tormak Sanayi Sitesi'nde faaliyet gösteren şirket, rulman, kayış, keçe, segman, dişli gibi endüstriyel ürünlerin satışında uzmanlaşmıştır. İşlerindeki uzmanlık ve titizlikleriyle bilinen Çeliktepe Rulman, müşterilerine yüksek kalitede ürünler sunmanın yanı sıra, sağlamış oldukları güvenilir hizmet ve müşteri memnuniyeti odaklı yaklaşımlarıyla da tanınır. Sedat Çeliktepe'nin liderliğindeki şirket, geçmişten gelen deneyimini ve teknolojik yeniliklere olan hakimiyetini birleştirerek, müşterilerine sürekli olarak en iyi hizmeti sunmayı hedeflemektedir. İkitelli'de ve çevresindeki sanayi tesislerinin vazgeçilmez bir tedarikçisi olan Çeliktepe Rulman, sektöründe güvenilir bir isim olmaya devam ediyor.",
+    },
+]
